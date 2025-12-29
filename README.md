@@ -6,6 +6,15 @@ Simple. Elegant. Fast.
 
 </div>
 
+## Key Features
+- **Support:** Track, Album & Playlist
+- **Format:** MP3, OGG, OPUS
+- **Quality:** 128, 256, 320 kbps
+- **Bulk Download:** Yes (One-click ZIP)
+- **Metadata & Cover Art:** Yes (Full Tagging)
+- **Filename Preset:** Customizable
+- **User Experience:** Auto-URL Detection & Search Filter
+  
 ## Screenshots
 
 ![Image](https://github.com/user-attachments/assets/018bb6ca-4d24-4b7c-8c1c-b6ab647788ec)
