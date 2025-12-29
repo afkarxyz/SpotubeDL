@@ -8,6 +8,6 @@ Simple. Elegant. Fast.
 
 ## Screenshots
 
-![Image](https://github.com/user-attachments/assets/f1c79444-72b2-4902-af41-e0f17efee6d6)
+![Image](https://github.com/user-attachments/assets/018bb6ca-4d24-4b7c-8c1c-b6ab647788ec)
 
-![Image](https://github.com/user-attachments/assets/c744cdf1-2700-4b17-a0de-5eee86693b3f)
+![Image](https://github.com/user-attachments/assets/04e234a3-bbc6-407f-80d1-ae039292d018)
