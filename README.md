@@ -6,7 +6,7 @@ Simple. Elegant. Fast.
 
 </div>
 
-### [Start Here](https://spotubedl.com)
+[![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-Install-black?style=for-the-badge&logo=greasyfork&logoColor=white)](https://greasyfork.org/en/scripts/560695)
 
 ## Key Features
 - **Support:** Track, Album & Playlist
