@@ -15,7 +15,9 @@ Simple. Elegant. Fast.
 - **Bulk Download:** Yes (One-click ZIP)
 - **Metadata & Cover Art:** Yes (Full Tagging)
 - **Filename Preset:** Customizable
-- **User Experience:** Auto-URL Detection & Search Filter
+- **Search:** Track Search with Advanced Filtering
+- **History:** Local Download History (Auto Fetch)
+- **User Experience:** Auto-URL Detection & Smart Search Filter
   
 ## Screenshots
 
