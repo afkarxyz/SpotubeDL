@@ -10,7 +10,7 @@ Simple. Elegant. Fast.
 
 ## Key Features
 - **Support:** Track, Album & Playlist
-- **Format:** MP3, OGG, OPUS
+- **Format:** MP3, OGG, Opus
 - **Quality:** 128, 256, 320 kbps
 - **Bulk Download:** Yes (One-click ZIP)
 - **Metadata & Cover Art:** Yes (Full Tagging)
